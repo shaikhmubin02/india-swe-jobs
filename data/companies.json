@@ -1,0 +1,1199 @@
+[
+  {
+    "slug": "imc-trading",
+    "name": "IMC Trading",
+    "sector": "quant",
+    "category": "hft",
+    "careers": "https://www.imc.com/us/careers/",
+    "ats": "greenhouse",
+    "token": "imc",
+    "open": 12,
+    "total": 12,
+    "cities": [
+      "mumbai"
+    ],
+    "disciplines": [
+      "data",
+      "quant",
+      "research",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "point72",
+    "name": "Point72",
+    "sector": "quant",
+    "category": "hft",
+    "careers": "https://point72.com/careers/",
+    "ats": "greenhouse",
+    "token": "point72",
+    "open": 31,
+    "total": 31,
+    "cities": [
+      "bengaluru",
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "data",
+      "infra",
+      "ml",
+      "quant",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "squarepoint-capital",
+    "name": "Squarepoint Capital",
+    "sector": "quant",
+    "category": "hft",
+    "careers": "https://www.squarepoint-capital.com/careers",
+    "ats": "greenhouse",
+    "token": "squarepointcapital",
+    "open": 14,
+    "total": 14,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "quant",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "tower-research-capital",
+    "name": "Tower Research Capital",
+    "sector": "quant",
+    "category": "hft",
+    "careers": "https://www.tower-research.com/careers/",
+    "ats": "greenhouse",
+    "token": "towerresearchcapital",
+    "open": 8,
+    "total": 8,
+    "cities": [
+      "gurugram",
+      "ahmedabad"
+    ],
+    "disciplines": [
+      "quant",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "jump-trading",
+    "name": "Jump Trading",
+    "sector": "quant",
+    "category": "hft",
+    "careers": "https://www.jumptrading.com/careers",
+    "ats": "greenhouse",
+    "token": "jumptrading",
+    "open": 3,
+    "total": 3,
+    "cities": [
+      "mumbai"
+    ],
+    "disciplines": [
+      "infra",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "optiver",
+    "name": "Optiver",
+    "sector": "quant",
+    "category": "hft",
+    "careers": "https://www.optiver.com/working-at-optiver/career-opportunities/",
+    "ats": "greenhouse",
+    "token": "optiverus",
+    "open": 3,
+    "total": 3,
+    "cities": [
+      "mumbai"
+    ],
+    "disciplines": [
+      "infra",
+      "quant"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "da-vinci-derivatives",
+    "name": "Da Vinci Derivatives",
+    "sector": "quant",
+    "category": "hft",
+    "careers": "https://davinciderivatives.com/careers",
+    "ats": "greenhouse",
+    "token": "davinciderivatives",
+    "open": 1,
+    "total": 1,
+    "cities": [
+      "mumbai"
+    ],
+    "disciplines": [
+      "quant"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "alphagrep-securities",
+    "name": "AlphaGrep Securities",
+    "sector": "quant",
+    "category": "hft",
+    "careers": "https://www.alphagrep.com/careers",
+    "ats": "greenhouse",
+    "token": "alphagrepsecurities",
+    "open": 2,
+    "total": 2,
+    "cities": [
+      "bengaluru",
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "infra",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "worldquant",
+    "name": "WorldQuant",
+    "sector": "quant",
+    "category": "quant-research",
+    "careers": "https://www.worldquant.com/careers/",
+    "ats": "greenhouse",
+    "token": "worldquant",
+    "open": 5,
+    "total": 5,
+    "cities": [
+      "mumbai",
+      "delhi"
+    ],
+    "disciplines": [
+      "data",
+      "quant",
+      "research",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "sector": "tech",
+    "category": "ai-lab",
+    "careers": "https://openai.com/careers/",
+    "ats": "ashby",
+    "token": "openai",
+    "open": 3,
+    "total": 3,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "delhi"
+    ],
+    "disciplines": [
+      "ml",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "anthropic",
+    "name": "Anthropic",
+    "sector": "tech",
+    "category": "ai-lab",
+    "careers": "https://www.anthropic.com/careers",
+    "ats": "greenhouse",
+    "token": "anthropic",
+    "open": 2,
+    "total": 2,
+    "cities": [
+      "bengaluru",
+      "mumbai"
+    ],
+    "disciplines": [
+      "ml"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "sector": "tech",
+    "category": "ai-lab",
+    "careers": "https://cursor.com/careers",
+    "ats": "ashby",
+    "token": "cursor",
+    "open": 4,
+    "total": 4,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "delhi"
+    ],
+    "disciplines": [
+      "product",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "sector": "tech",
+    "category": "ai-lab",
+    "careers": "https://elevenlabs.io/careers",
+    "ats": "ashby",
+    "token": "elevenlabs",
+    "open": 0,
+    "total": 0,
+    "cities": [],
+    "disciplines": [],
+    "walk_ins": 0
+  },
+  {
+    "slug": "harvey",
+    "name": "Harvey",
+    "sector": "tech",
+    "category": "ai-lab",
+    "careers": "https://www.harvey.ai/careers",
+    "ats": "ashby",
+    "token": "harvey",
+    "open": 5,
+    "total": 5,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "infra",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "together-ai",
+    "name": "Together AI",
+    "sector": "tech",
+    "category": "ai-lab",
+    "careers": "https://www.together.ai/careers",
+    "ats": "greenhouse",
+    "token": "togetherai",
+    "open": 4,
+    "total": 4,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "infra",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "scale-ai",
+    "name": "Scale AI",
+    "sector": "tech",
+    "category": "ai-lab",
+    "careers": "https://scale.com/careers",
+    "ats": "greenhouse",
+    "token": "scaleai",
+    "open": 0,
+    "total": 0,
+    "cities": [],
+    "disciplines": [],
+    "walk_ins": 0
+  },
+  {
+    "slug": "databricks",
+    "name": "Databricks",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.databricks.com/company/careers",
+    "ats": "greenhouse",
+    "token": "databricks",
+    "open": 71,
+    "total": 71,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "pune",
+      "delhi",
+      "remote-india",
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "data",
+      "infra",
+      "ml",
+      "product",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "mongodb",
+    "name": "MongoDB",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.mongodb.com/careers",
+    "ats": "greenhouse",
+    "token": "mongodb",
+    "open": 41,
+    "total": 41,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "hyderabad",
+      "gurugram"
+    ],
+    "disciplines": [
+      "infra",
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "zscaler",
+    "name": "Zscaler",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.zscaler.com/careers",
+    "ats": "greenhouse",
+    "token": "zscaler",
+    "open": 52,
+    "total": 52,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "pune",
+      "hyderabad",
+      "gurugram",
+      "chandigarh",
+      "remote-india"
+    ],
+    "disciplines": [
+      "infra",
+      "ml",
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://stripe.com/jobs",
+    "ats": "greenhouse",
+    "token": "stripe",
+    "open": 10,
+    "total": 10,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "data",
+      "infra",
+      "product",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "gitlab",
+    "name": "GitLab",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://about.gitlab.com/jobs/",
+    "ats": "greenhouse",
+    "token": "gitlab",
+    "open": 20,
+    "total": 20,
+    "cities": [
+      "bengaluru",
+      "remote-india"
+    ],
+    "disciplines": [
+      "infra",
+      "ml",
+      "product",
+      "research",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "rubrik",
+    "name": "Rubrik",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.rubrik.com/company/careers",
+    "ats": "greenhouse",
+    "token": "rubrik",
+    "open": 16,
+    "total": 16,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "pune"
+    ],
+    "disciplines": [
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "alphasense",
+    "name": "AlphaSense",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.alpha-sense.com/careers/",
+    "ats": "greenhouse",
+    "token": "alphasense",
+    "open": 9,
+    "total": 9,
+    "cities": [
+      "bengaluru",
+      "remote-india",
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "payoneer",
+    "name": "Payoneer",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.payoneer.com/careers/",
+    "ats": "greenhouse",
+    "token": "payoneer",
+    "open": 19,
+    "total": 19,
+    "cities": [
+      "gurugram"
+    ],
+    "disciplines": [
+      "infra",
+      "product",
+      "research",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "netskope",
+    "name": "Netskope",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.netskope.com/company/careers",
+    "ats": "greenhouse",
+    "token": "netskope",
+    "open": 19,
+    "total": 19,
+    "cities": [
+      "bengaluru",
+      "hyderabad",
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "data",
+      "infra",
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "elastic",
+    "name": "Elastic",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.elastic.co/careers",
+    "ats": "greenhouse",
+    "token": "elastic",
+    "open": 8,
+    "total": 8,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "ml",
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "twilio",
+    "name": "Twilio",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.twilio.com/en-us/company/jobs",
+    "ats": "greenhouse",
+    "token": "twilio",
+    "open": 9,
+    "total": 9,
+    "cities": [
+      "remote-india"
+    ],
+    "disciplines": [
+      "infra",
+      "ml",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "datadog",
+    "name": "Datadog",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://careers.datadoghq.com/",
+    "ats": "greenhouse",
+    "token": "datadog",
+    "open": 1,
+    "total": 1,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "coinbase",
+    "name": "Coinbase",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.coinbase.com/careers",
+    "ats": "greenhouse",
+    "token": "coinbase",
+    "open": 7,
+    "total": 7,
+    "cities": [
+      "remote-india"
+    ],
+    "disciplines": [
+      "ml",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "agoda",
+    "name": "Agoda",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://careers.agoda.com/",
+    "ats": "greenhouse",
+    "token": "agoda",
+    "open": 5,
+    "total": 5,
+    "cities": [
+      "gurugram"
+    ],
+    "disciplines": [
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "singlestore",
+    "name": "SingleStore",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.singlestore.com/careers/",
+    "ats": "greenhouse",
+    "token": "singlestore",
+    "open": 7,
+    "total": 7,
+    "cities": [
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "infra",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "commvault",
+    "name": "Commvault",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.commvault.com/careers",
+    "ats": "greenhouse",
+    "token": "commvault",
+    "open": 6,
+    "total": 6,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "data",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "solarwinds",
+    "name": "SolarWinds",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.solarwinds.com/company/careers",
+    "ats": "greenhouse",
+    "token": "solarwinds",
+    "open": 4,
+    "total": 4,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "infra",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "new-relic",
+    "name": "New Relic",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://newrelic.com/about/careers",
+    "ats": "greenhouse",
+    "token": "newrelic",
+    "open": 4,
+    "total": 4,
+    "cities": [
+      "bengaluru",
+      "hyderabad",
+      "kolkata"
+    ],
+    "disciplines": [
+      "ml",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "coursera",
+    "name": "Coursera",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://careers.coursera.com/",
+    "ats": "greenhouse",
+    "token": "coursera",
+    "open": 5,
+    "total": 5,
+    "cities": [
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "infra",
+      "ml",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "snowflake",
+    "name": "Snowflake",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://careers.snowflake.com/",
+    "ats": "ashby",
+    "token": "snowflake",
+    "open": 6,
+    "total": 6,
+    "cities": [
+      "bengaluru",
+      "pune",
+      "kolkata"
+    ],
+    "disciplines": [
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "airbnb",
+    "name": "Airbnb",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://careers.airbnb.com/",
+    "ats": "greenhouse",
+    "token": "airbnb",
+    "open": 2,
+    "total": 2,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "yugabyte",
+    "name": "Yugabyte",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.yugabyte.com/careers/",
+    "ats": "greenhouse",
+    "token": "yugabyte",
+    "open": 6,
+    "total": 6,
+    "cities": [
+      "bengaluru",
+      "india-anywhere"
+    ],
+    "disciplines": [
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "sumo-logic",
+    "name": "Sumo Logic",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.sumologic.com/company/careers/",
+    "ats": "greenhouse",
+    "token": "sumologic",
+    "open": 5,
+    "total": 5,
+    "cities": [
+      "bengaluru",
+      "noida"
+    ],
+    "disciplines": [
+      "product",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "adyen",
+    "name": "Adyen",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://careers.adyen.com/",
+    "ats": "greenhouse",
+    "token": "adyen",
+    "open": 3,
+    "total": 3,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "vercel",
+    "name": "Vercel",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://vercel.com/careers",
+    "ats": "greenhouse",
+    "token": "vercel",
+    "open": 0,
+    "total": 0,
+    "cities": [],
+    "disciplines": [],
+    "walk_ins": 0
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.notion.com/careers",
+    "ats": "ashby",
+    "token": "notion",
+    "open": 2,
+    "total": 2,
+    "cities": [
+      "hyderabad"
+    ],
+    "disciplines": [
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "cockroach-labs",
+    "name": "Cockroach Labs",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.cockroachlabs.com/careers/",
+    "ats": "greenhouse",
+    "token": "cockroachlabs",
+    "open": 1,
+    "total": 1,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.figma.com/careers/",
+    "ats": "greenhouse",
+    "token": "figma",
+    "open": 0,
+    "total": 0,
+    "cities": [],
+    "disciplines": [],
+    "walk_ins": 0
+  },
+  {
+    "slug": "duolingo",
+    "name": "Duolingo",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://careers.duolingo.com/",
+    "ats": "greenhouse",
+    "token": "duolingo",
+    "open": 0,
+    "total": 0,
+    "cities": [],
+    "disciplines": [],
+    "walk_ins": 0
+  },
+  {
+    "slug": "spotify",
+    "name": "Spotify",
+    "sector": "tech",
+    "category": "global-tech",
+    "careers": "https://www.lifeatspotify.com/jobs",
+    "ats": "lever",
+    "token": "spotify",
+    "open": 0,
+    "total": 0,
+    "cities": [],
+    "disciplines": [],
+    "walk_ins": 0
+  },
+  {
+    "slug": "paytm",
+    "name": "Paytm",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://paytm.com/careers",
+    "ats": "lever",
+    "token": "paytm",
+    "open": 14,
+    "total": 14,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "hyderabad",
+      "noida",
+      "visakhapatnam",
+      "patna"
+    ],
+    "disciplines": [
+      "product",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "meesho",
+    "name": "Meesho",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.meesho.io/jobs",
+    "ats": "lever",
+    "token": "meesho",
+    "open": 16,
+    "total": 16,
+    "cities": [
+      "bengaluru",
+      "ahmedabad",
+      "surat"
+    ],
+    "disciplines": [
+      "data",
+      "infra",
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "cred",
+    "name": "CRED",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://careers.cred.club/",
+    "ats": "lever",
+    "token": "cred",
+    "open": 0,
+    "total": 0,
+    "cities": [],
+    "disciplines": [],
+    "walk_ins": 0
+  },
+  {
+    "slug": "zeta",
+    "name": "Zeta",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.zeta.tech/careers",
+    "ats": "lever",
+    "token": "zeta",
+    "open": 7,
+    "total": 7,
+    "cities": [
+      "bengaluru",
+      "hyderabad"
+    ],
+    "disciplines": [
+      "infra",
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "mindtickle",
+    "name": "Mindtickle",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.mindtickle.com/careers/",
+    "ats": "lever",
+    "token": "mindtickle",
+    "open": 12,
+    "total": 12,
+    "cities": [
+      "bengaluru",
+      "mumbai",
+      "pune"
+    ],
+    "disciplines": [
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "highradius",
+    "name": "HighRadius",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.highradius.com/careers/",
+    "ats": "greenhouse",
+    "token": "highradius",
+    "open": 22,
+    "total": 22,
+    "cities": [
+      "hyderabad"
+    ],
+    "disciplines": [
+      "infra",
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "inmobi",
+    "name": "InMobi",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.inmobi.com/company/careers/",
+    "ats": "greenhouse",
+    "token": "inmobi",
+    "open": 11,
+    "total": 11,
+    "cities": [
+      "bengaluru",
+      "lucknow"
+    ],
+    "disciplines": [
+      "infra",
+      "ml",
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "glance",
+    "name": "Glance",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.glance.com/careers",
+    "ats": "greenhouse",
+    "token": "glance",
+    "open": 11,
+    "total": 11,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "ml",
+      "product",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "netradyne",
+    "name": "Netradyne",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.netradyne.com/careers",
+    "ats": "greenhouse",
+    "token": "netradyne",
+    "open": 12,
+    "total": 12,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "data",
+      "infra",
+      "ml",
+      "product",
+      "research",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "groww",
+    "name": "Groww",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://groww.in/careers",
+    "ats": "greenhouse",
+    "token": "groww",
+    "open": 1,
+    "total": 1,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "quant"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "druva",
+    "name": "Druva",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.druva.com/company/careers/",
+    "ats": "greenhouse",
+    "token": "druva",
+    "open": 12,
+    "total": 12,
+    "cities": [
+      "mumbai",
+      "pune",
+      "hyderabad"
+    ],
+    "disciplines": [
+      "product",
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "atlan",
+    "name": "Atlan",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://atlan.com/careers/",
+    "ats": "ashby",
+    "token": "atlan",
+    "open": 2,
+    "total": 2,
+    "cities": [
+      "remote-india"
+    ],
+    "disciplines": [
+      "security",
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "sardine",
+    "name": "Sardine",
+    "sector": "tech",
+    "category": "indian-product",
+    "careers": "https://www.sardine.ai/careers",
+    "ats": "ashby",
+    "token": "sardine",
+    "open": 1,
+    "total": 1,
+    "cities": [
+      "remote-india"
+    ],
+    "disciplines": [
+      "software"
+    ],
+    "walk_ins": 0
+  },
+  {
+    "slug": "thoughtworks",
+    "name": "Thoughtworks",
+    "sector": "tech",
+    "category": "services",
+    "careers": "https://www.thoughtworks.com/careers",
+    "ats": "greenhouse",
+    "token": "thoughtworks",
+    "open": 0,
+    "total": 0,
+    "cities": [],
+    "disciplines": [],
+    "walk_ins": 0
+  }
+]

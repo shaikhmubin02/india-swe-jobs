@@ -1,0 +1,43 @@
+[
+  {
+    "id": "example-1",
+    "title": "Walk-in interview: Java / Spring Boot Developer (2–6 yrs)",
+    "company": "Example IT Services Ltd",
+    "company_slug": "example-it-services",
+    "url": "https://example.com/careers/walkin-java-bengaluru",
+    "location": "Bengaluru, Karnataka, India",
+    "department": "Engineering",
+    "employment_type": "Full Time",
+    "posted": "2026-10-18",
+    "walk_in": true,
+    "event_type": "walk-in",
+    "description": "Walk-in interview drive on Saturday 24 October, 9:30am–2:00pm at our Whitefield campus. Carry a printed resume and a government photo ID. Roles: Java backend, React frontend, QA automation. Freshers with strong fundamentals may also apply for the trainee track."
+  },
+  {
+    "id": "example-2",
+    "title": "Off-campus hiring drive — Software Engineer Trainee (2026 batch)",
+    "company": "Example GCC",
+    "company_slug": "example-gcc",
+    "url": "https://example.com/careers/off-campus-2026",
+    "location": "Hyderabad, Telangana, India",
+    "department": "Early Careers",
+    "employment_type": "Full Time",
+    "posted": "2026-10-15",
+    "walk_in": true,
+    "event_type": "campus-drive",
+    "description": "Off-campus recruitment drive for the 2026 graduating batch. Online assessment followed by technical and HR rounds. Eligible: B.E./B.Tech/M.Tech, CGPA 7+, no active backlogs."
+  },
+  {
+    "id": "example-3",
+    "title": "Hiring event: Cloud & DevOps Engineer",
+    "company": "Example Cloud Co",
+    "company_slug": "example-cloud",
+    "url": "https://example.com/careers/hiring-event-devops",
+    "location": "Pune, Maharashtra, India",
+    "department": "Platform",
+    "posted": "2026-10-12",
+    "walk_in": true,
+    "event_type": "hiring-event",
+    "description": "Weekend hiring event for Kubernetes, Terraform and AWS engineers. Slots are pre-booked; walk-in candidates are accepted subject to availability. Bring your own laptop."
+  }
+]

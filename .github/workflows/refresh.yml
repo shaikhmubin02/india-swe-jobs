@@ -1,0 +1,77 @@
+name: Refresh listings
+
+# The site has no runtime jobs API — the dataset ships inside the page payload,
+# so data only moves when `ingest` runs and the app is rebuilt. This keeps that
+# happening without anyone remembering to.
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours, off the top of the hour
+  workflow_dispatch: # and on demand, from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-listings
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # Aggregate engagement counters (no PII). They are gitignored, so carry
+      # them across runs here — otherwise CI bakes every rank as null and the
+      # "popular"/"trending" orderings quietly reset on each refresh. If you
+      # deploy for real, point lib/counter.ts at KV instead and drop this.
+      - uses: actions/cache@v4
+        with:
+          path: |
+            data/clicks.json
+            data/saves.json
+          key: clicks-${{ github.run_id }}
+          restore-keys: clicks-
+
+      - name: Ingest all sources
+        run: npm run ingest
+
+      - name: Verify the dataset
+        run: npm run verify
+
+      - name: Build
+        run: npm run build
+
+      - name: Commit the refreshed dataset
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "dataset unchanged — nothing to publish"
+          else
+            git commit -m "chore(data): refresh listings [skip ci]"
+            git push
+          fi
+
+      # Hosting that builds on push (Vercel, Netlify, Render, Cloudflare) picks
+      # the commit above up on its own and needs nothing further. To deploy from
+      # here instead, uncomment — `VERCEL_TOKEN` as a repo secret. Note the
+      # /api/click and /api/save routes mean this is a Node app, not a static
+      # export, so a static host will not work.
+      #
+      # - name: Deploy
+      #   if: env.VERCEL_TOKEN != ''
+      #   env:
+      #     VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      #   run: npx --yes vercel@latest deploy --prod --yes --token "$VERCEL_TOKEN"
