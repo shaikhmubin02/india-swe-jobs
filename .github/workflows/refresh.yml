@@ -20,11 +20,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
@@ -35,7 +35,7 @@ jobs:
       # them across runs here — otherwise CI bakes every rank as null and the
       # "popular"/"trending" orderings quietly reset on each refresh. If you
       # deploy for real, point lib/counter.ts at KV instead and drop this.
-      - uses: actions/cache@v4
+      - uses: actions/cache@v6
         with:
           path: |
             data/clicks.json
