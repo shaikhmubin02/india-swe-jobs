@@ -227,10 +227,10 @@ The two `/api/*` beacon routes mean this is a Next.js **server** app, not a stat
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fshaikhmubin02%2Findia-swe-jobs)
 
-Set `NEXT_PUBLIC_SITE_URL` to the final origin so `robots.txt` and `sitemap.xml` emit absolute URLs:
+`robots.txt` and `sitemap.xml` need an absolute origin. On Vercel that resolves itself from the project's own domain (`VERCEL_PROJECT_PRODUCTION_URL`), so a stock deploy is correct with no configuration. Set `NEXT_PUBLIC_SITE_URL` only when you put a custom domain in front of it:
 
 ```bash
-NEXT_PUBLIC_SITE_URL=https://your-app.vercel.app
+NEXT_PUBLIC_SITE_URL=https://your-domain.example
 ```
 
 **Worth knowing before the first deploy.** `lib/counter.ts` persists the click/save counters to `data/clicks.json` and `data/saves.json`, and a serverless filesystem is read-only. It already degrades quietly — the beacon routes still return `204`, the counts simply live in memory for the life of each instance, and `popular_rank` stays `null`. That is fine to launch with. To make the ranking real, swap the two functions in `lib/counter.ts` for KV (Upstash Redis, Cloudflare KV) behind the same `incrementClick` / `incrementSave` signatures, and drop the `data/clicks.json` cache step from `.github/workflows/refresh.yml`.
