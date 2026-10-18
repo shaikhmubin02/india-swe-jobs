@@ -2,7 +2,7 @@
   "name": "india-swe-jobs",
   "version": "0.1.0",
   "private": true,
-  "engines": { "node": ">=22" },
+  "engines": { "node": "22.x" },
   "type": "module",
   "description": "India software-engineering job board for HFT/quant firms and tech companies. Architecture mirrored from a reverse-engineered Next.js job aggregator.",
   "scripts": {
