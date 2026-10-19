@@ -112,8 +112,8 @@
     "careers": "https://www.optiver.com/working-at-optiver/career-opportunities/",
     "ats": "greenhouse",
     "token": "optiverus",
-    "open": 3,
-    "total": 3,
+    "open": 4,
+    "total": 4,
     "cities": [
       "mumbai"
     ],
@@ -149,7 +149,7 @@
     "careers": "https://www.alphagrep.com/careers",
     "ats": "greenhouse",
     "token": "alphagrepsecurities",
-    "open": 2,
+    "open": 1,
     "total": 2,
     "cities": [
       "bengaluru",
@@ -369,8 +369,8 @@
     "careers": "https://www.zscaler.com/careers",
     "ats": "greenhouse",
     "token": "zscaler",
-    "open": 51,
-    "total": 52,
+    "open": 52,
+    "total": 53,
     "cities": [
       "bengaluru",
       "mumbai",
@@ -397,7 +397,7 @@
     "careers": "https://stripe.com/jobs",
     "ats": "greenhouse",
     "token": "stripe",
-    "open": 10,
+    "open": 9,
     "total": 10,
     "cities": [
       "bengaluru"
@@ -418,7 +418,7 @@
     "careers": "https://about.gitlab.com/jobs/",
     "ats": "greenhouse",
     "token": "gitlab",
-    "open": 20,
+    "open": 16,
     "total": 20,
     "cities": [
       "bengaluru",
@@ -442,7 +442,7 @@
     "careers": "https://www.rubrik.com/company/careers",
     "ats": "greenhouse",
     "token": "rubrik",
-    "open": 16,
+    "open": 15,
     "total": 16,
     "cities": [
       "bengaluru",
@@ -648,7 +648,7 @@
     "careers": "https://www.commvault.com/careers",
     "ats": "greenhouse",
     "token": "commvault",
-    "open": 6,
+    "open": 5,
     "total": 6,
     "cities": [
       "bengaluru"
@@ -729,7 +729,7 @@
     "careers": "https://careers.snowflake.com/",
     "ats": "ashby",
     "token": "snowflake",
-    "open": 6,
+    "open": 5,
     "total": 6,
     "cities": [
       "bengaluru",
@@ -769,7 +769,7 @@
     "careers": "https://www.yugabyte.com/careers/",
     "ats": "greenhouse",
     "token": "yugabyte",
-    "open": 6,
+    "open": 5,
     "total": 6,
     "cities": [
       "bengaluru",
@@ -809,7 +809,7 @@
     "careers": "https://careers.adyen.com/",
     "ats": "greenhouse",
     "token": "adyen",
-    "open": 3,
+    "open": 2,
     "total": 3,
     "cities": [
       "bengaluru"
@@ -1070,8 +1070,8 @@
     "careers": "https://www.glance.com/careers",
     "ats": "greenhouse",
     "token": "glance",
-    "open": 11,
-    "total": 11,
+    "open": 12,
+    "total": 12,
     "cities": [
       "bengaluru"
     ],
@@ -1090,8 +1090,8 @@
     "careers": "https://www.netradyne.com/careers",
     "ats": "greenhouse",
     "token": "netradyne",
-    "open": 12,
-    "total": 12,
+    "open": 13,
+    "total": 13,
     "cities": [
       "bengaluru"
     ],
