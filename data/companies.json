@@ -688,7 +688,7 @@
     "careers": "https://newrelic.com/about/careers",
     "ats": "greenhouse",
     "token": "newrelic",
-    "open": 4,
+    "open": 3,
     "total": 4,
     "cities": [
       "bengaluru",
@@ -729,7 +729,7 @@
     "careers": "https://careers.snowflake.com/",
     "ats": "ashby",
     "token": "snowflake",
-    "open": 5,
+    "open": 4,
     "total": 6,
     "cities": [
       "bengaluru",
@@ -772,7 +772,6 @@
     "open": 5,
     "total": 6,
     "cities": [
-      "bengaluru",
       "india-anywhere"
     ],
     "disciplines": [
