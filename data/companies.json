@@ -369,7 +369,7 @@
     "careers": "https://www.zscaler.com/careers",
     "ats": "greenhouse",
     "token": "zscaler",
-    "open": 52,
+    "open": 50,
     "total": 53,
     "cities": [
       "bengaluru",
@@ -397,7 +397,7 @@
     "careers": "https://stripe.com/jobs",
     "ats": "greenhouse",
     "token": "stripe",
-    "open": 9,
+    "open": 8,
     "total": 10,
     "cities": [
       "bengaluru"
@@ -506,8 +506,8 @@
     "careers": "https://www.netskope.com/company/careers",
     "ats": "greenhouse",
     "token": "netskope",
-    "open": 18,
-    "total": 19,
+    "open": 19,
+    "total": 20,
     "cities": [
       "bengaluru",
       "hyderabad",
