@@ -346,8 +346,8 @@
     "careers": "https://www.mongodb.com/careers",
     "ats": "greenhouse",
     "token": "mongodb",
-    "open": 41,
-    "total": 41,
+    "open": 42,
+    "total": 42,
     "cities": [
       "bengaluru",
       "mumbai",
@@ -419,7 +419,7 @@
     "careers": "https://about.gitlab.com/jobs/",
     "ats": "greenhouse",
     "token": "gitlab",
-    "open": 16,
+    "open": 15,
     "total": 20,
     "cities": [
       "bengaluru",
@@ -443,14 +443,16 @@
     "careers": "https://www.rubrik.com/company/careers",
     "ats": "greenhouse",
     "token": "rubrik",
-    "open": 15,
-    "total": 17,
+    "open": 17,
+    "total": 19,
     "cities": [
       "bengaluru",
       "mumbai",
       "pune"
     ],
     "disciplines": [
+      "infra",
+      "ml",
       "product",
       "security",
       "software"
@@ -690,8 +692,8 @@
     "careers": "https://newrelic.com/about/careers",
     "ats": "greenhouse",
     "token": "newrelic",
-    "open": 4,
-    "total": 4,
+    "open": 5,
+    "total": 5,
     "cities": [
       "bengaluru",
       "hyderabad",
@@ -699,6 +701,7 @@
     ],
     "disciplines": [
       "ml",
+      "product",
       "software"
     ],
     "walk_ins": 0
@@ -1132,8 +1135,8 @@
     "careers": "https://www.druva.com/company/careers/",
     "ats": "greenhouse",
     "token": "druva",
-    "open": 12,
-    "total": 12,
+    "open": 13,
+    "total": 13,
     "cities": [
       "mumbai",
       "pune",
