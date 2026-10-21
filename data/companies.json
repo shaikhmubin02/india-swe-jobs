@@ -7,13 +7,14 @@
     "careers": "https://www.imc.com/us/careers/",
     "ats": "greenhouse",
     "token": "imc",
-    "open": 12,
-    "total": 12,
+    "open": 13,
+    "total": 13,
     "cities": [
       "mumbai"
     ],
     "disciplines": [
       "data",
+      "infra",
       "quant",
       "research",
       "security",
@@ -319,7 +320,7 @@
     "careers": "https://www.databricks.com/company/careers",
     "ats": "greenhouse",
     "token": "databricks",
-    "open": 70,
+    "open": 69,
     "total": 73,
     "cities": [
       "bengaluru",
@@ -734,7 +735,7 @@
     "careers": "https://careers.snowflake.com/",
     "ats": "ashby",
     "token": "snowflake",
-    "open": 4,
+    "open": 3,
     "total": 6,
     "cities": [
       "bengaluru",
