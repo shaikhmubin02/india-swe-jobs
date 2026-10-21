@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-21T04:56:42.269Z",
+  "generated_at": "2026-10-21T11:57:51.064Z",
   "closed_retention_days": 30,
   "trending_window_days": 7,
   "counts": {
-    "total": 568,
-    "open": 543,
-    "open_engineering": 494,
-    "closed": 25,
+    "total": 574,
+    "open": 547,
+    "open_engineering": 498,
+    "closed": 27,
     "walk_ins": 0,
     "companies": 52,
     "sources": 60
   },
   "tracks": {
-    "engineering": 517,
-    "product": 51
+    "engineering": 522,
+    "product": 52
   },
   "cities": [
     {
       "slug": "bengaluru",
       "name": "Bengaluru",
       "region": "South",
-      "open": 290
+      "open": 294
     },
     {
       "slug": "mumbai",
@@ -32,7 +32,7 @@
       "slug": "pune",
       "name": "Pune",
       "region": "West",
-      "open": 28
+      "open": 30
     },
     {
       "slug": "hyderabad",
@@ -44,7 +44,7 @@
       "slug": "gurugram",
       "name": "Gurugram",
       "region": "North",
-      "open": 72
+      "open": 73
     },
     {
       "slug": "noida",
@@ -110,7 +110,7 @@
       "slug": "india-anywhere",
       "name": "India (multiple/unspecified)",
       "region": null,
-      "open": 37
+      "open": 36
     }
   ],
   "facets": {
@@ -183,7 +183,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 900,
+      "rows": 899,
       "india": 70
     },
     {
@@ -192,8 +192,8 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 353,
-      "india": 51
+      "rows": 356,
+      "india": 53
     },
     {
       "key": "greenhouse:mongodb",
@@ -201,7 +201,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 394,
+      "rows": 397,
       "india": 41
     },
     {
@@ -210,7 +210,7 @@
       "sector": "quant",
       "category": "hft",
       "error": null,
-      "rows": 215,
+      "rows": 216,
       "india": 31
     },
     {
@@ -228,7 +228,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 101,
+      "rows": 102,
       "india": 19
     },
     {
@@ -237,7 +237,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 128,
+      "rows": 129,
       "india": 19
     },
     {
@@ -273,7 +273,7 @@
       "sector": "tech",
       "category": "indian-product",
       "error": null,
-      "rows": 190,
+      "rows": 191,
       "india": 15
     },
     {
@@ -295,6 +295,15 @@
       "india": 13
     },
     {
+      "key": "greenhouse:glance",
+      "name": "Glance",
+      "sector": "tech",
+      "category": "indian-product",
+      "error": null,
+      "rows": 39,
+      "india": 13
+    },
+    {
       "key": "greenhouse:imc",
       "name": "IMC Trading",
       "sector": "quant",
@@ -313,15 +322,6 @@
       "india": 12
     },
     {
-      "key": "greenhouse:glance",
-      "name": "Glance",
-      "sector": "tech",
-      "category": "indian-product",
-      "error": null,
-      "rows": 38,
-      "india": 12
-    },
-    {
       "key": "greenhouse:druva",
       "name": "Druva",
       "sector": "tech",
@@ -336,26 +336,8 @@
       "sector": "tech",
       "category": "indian-product",
       "error": null,
-      "rows": 81,
+      "rows": 82,
       "india": 11
-    },
-    {
-      "key": "greenhouse:stripe",
-      "name": "Stripe",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 732,
-      "india": 9
-    },
-    {
-      "key": "greenhouse:twilio",
-      "name": "Twilio",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 132,
-      "india": 9
     },
     {
       "key": "greenhouse:towerresearchcapital",
@@ -363,8 +345,17 @@
       "sector": "quant",
       "category": "hft",
       "error": null,
-      "rows": 98,
-      "india": 8
+      "rows": 99,
+      "india": 9
+    },
+    {
+      "key": "greenhouse:stripe",
+      "name": "Stripe",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 730,
+      "india": 9
     },
     {
       "key": "greenhouse:alphasense",
@@ -372,7 +363,16 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 212,
+      "rows": 211,
+      "india": 8
+    },
+    {
+      "key": "greenhouse:twilio",
+      "name": "Twilio",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 131,
       "india": 8
     },
     {
@@ -381,7 +381,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 371,
+      "rows": 369,
       "india": 8
     },
     {
@@ -399,7 +399,16 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 230,
+      "rows": 229,
+      "india": 7
+    },
+    {
+      "key": "greenhouse:commvault",
+      "name": "Commvault",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 53,
       "india": 7
     },
     {
@@ -426,16 +435,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 344,
-      "india": 5
-    },
-    {
-      "key": "greenhouse:commvault",
-      "name": "Commvault",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 51,
+      "rows": 347,
       "india": 5
     },
     {
@@ -444,16 +444,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 312,
-      "india": 5
-    },
-    {
-      "key": "greenhouse:coursera",
-      "name": "Coursera",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 28,
+      "rows": 308,
       "india": 5
     },
     {
@@ -471,7 +462,7 @@
       "sector": "quant",
       "category": "hft",
       "error": null,
-      "rows": 166,
+      "rows": 167,
       "india": 4
     },
     {
@@ -493,15 +484,6 @@
       "india": 4
     },
     {
-      "key": "greenhouse:newrelic",
-      "name": "New Relic",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 55,
-      "india": 4
-    },
-    {
       "key": "greenhouse:solarwinds",
       "name": "SolarWinds",
       "sector": "tech",
@@ -511,12 +493,21 @@
       "india": 4
     },
     {
-      "key": "ashby:snowflake",
-      "name": "Snowflake",
+      "key": "greenhouse:coursera",
+      "name": "Coursera",
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 361,
+      "rows": 27,
+      "india": 4
+    },
+    {
+      "key": "greenhouse:newrelic",
+      "name": "New Relic",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 57,
       "india": 4
     },
     {
@@ -526,6 +517,15 @@
       "category": "global-tech",
       "error": null,
       "rows": 14,
+      "india": 4
+    },
+    {
+      "key": "ashby:snowflake",
+      "name": "Snowflake",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 361,
       "india": 4
     },
     {
@@ -552,7 +552,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 674,
+      "rows": 675,
       "india": 2
     },
     {
@@ -561,7 +561,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 182,
+      "rows": 186,
       "india": 2
     },
     {
@@ -606,7 +606,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 435,
+      "rows": 436,
       "india": 1
     },
     {
@@ -624,7 +624,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 245,
+      "rows": 247,
       "india": 1
     },
     {
@@ -660,7 +660,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 178,
+      "rows": 176,
       "india": 0
     },
     {
@@ -687,7 +687,16 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 141,
+      "rows": 142,
+      "india": 0
+    },
+    {
+      "key": "lever:spotify",
+      "name": "Spotify",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 78,
       "india": 0
     },
     {
@@ -697,15 +706,6 @@
       "category": "indian-product",
       "error": null,
       "rows": 9,
-      "india": 0
-    },
-    {
-      "key": "lever:spotify",
-      "name": "Spotify",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 81,
       "india": 0
     },
     {
@@ -723,7 +723,7 @@
       "sector": "tech",
       "category": "services",
       "error": null,
-      "rows": 43,
+      "rows": 41,
       "india": 0
     }
   ]

@@ -72,13 +72,14 @@
     "careers": "https://www.tower-research.com/careers/",
     "ats": "greenhouse",
     "token": "towerresearchcapital",
-    "open": 8,
-    "total": 8,
+    "open": 9,
+    "total": 9,
     "cities": [
       "gurugram",
       "ahmedabad"
     ],
     "disciplines": [
+      "infra",
       "quant",
       "security",
       "software"
@@ -369,8 +370,8 @@
     "careers": "https://www.zscaler.com/careers",
     "ats": "greenhouse",
     "token": "zscaler",
-    "open": 51,
-    "total": 55,
+    "open": 53,
+    "total": 56,
     "cities": [
       "bengaluru",
       "mumbai",
@@ -443,7 +444,7 @@
     "ats": "greenhouse",
     "token": "rubrik",
     "open": 15,
-    "total": 16,
+    "total": 17,
     "cities": [
       "bengaluru",
       "mumbai",
@@ -553,7 +554,7 @@
     "careers": "https://www.twilio.com/en-us/company/jobs",
     "ats": "greenhouse",
     "token": "twilio",
-    "open": 9,
+    "open": 8,
     "total": 9,
     "cities": [
       "remote-india"
@@ -648,10 +649,11 @@
     "careers": "https://www.commvault.com/careers",
     "ats": "greenhouse",
     "token": "commvault",
-    "open": 5,
-    "total": 6,
+    "open": 7,
+    "total": 8,
     "cities": [
-      "bengaluru"
+      "bengaluru",
+      "pune"
     ],
     "disciplines": [
       "data",
@@ -709,7 +711,7 @@
     "careers": "https://careers.coursera.com/",
     "ats": "greenhouse",
     "token": "coursera",
-    "open": 5,
+    "open": 4,
     "total": 5,
     "cities": [
       "india-anywhere"
@@ -1069,8 +1071,8 @@
     "careers": "https://www.glance.com/careers",
     "ats": "greenhouse",
     "token": "glance",
-    "open": 12,
-    "total": 12,
+    "open": 13,
+    "total": 13,
     "cities": [
       "bengaluru"
     ],
