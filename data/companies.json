@@ -73,8 +73,8 @@
     "careers": "https://www.tower-research.com/careers/",
     "ats": "greenhouse",
     "token": "towerresearchcapital",
-    "open": 9,
-    "total": 9,
+    "open": 10,
+    "total": 10,
     "cities": [
       "gurugram",
       "ahmedabad"
@@ -287,8 +287,8 @@
     "careers": "https://www.together.ai/careers",
     "ats": "greenhouse",
     "token": "togetherai",
-    "open": 4,
-    "total": 4,
+    "open": 5,
+    "total": 5,
     "cities": [
       "bengaluru"
     ],
@@ -320,7 +320,7 @@
     "careers": "https://www.databricks.com/company/careers",
     "ats": "greenhouse",
     "token": "databricks",
-    "open": 69,
+    "open": 68,
     "total": 73,
     "cities": [
       "bengaluru",
@@ -534,7 +534,7 @@
     "careers": "https://www.elastic.co/careers",
     "ats": "greenhouse",
     "token": "elastic",
-    "open": 8,
+    "open": 7,
     "total": 8,
     "cities": [
       "bengaluru",
@@ -757,12 +757,13 @@
     "careers": "https://careers.airbnb.com/",
     "ats": "greenhouse",
     "token": "airbnb",
-    "open": 2,
-    "total": 2,
+    "open": 4,
+    "total": 4,
     "cities": [
       "bengaluru"
     ],
     "disciplines": [
+      "infra",
       "software"
     ],
     "walk_ins": 0
@@ -1031,7 +1032,7 @@
     "careers": "https://www.highradius.com/careers/",
     "ats": "greenhouse",
     "token": "highradius",
-    "open": 21,
+    "open": 20,
     "total": 22,
     "cities": [
       "hyderabad"
@@ -1195,7 +1196,7 @@
     "careers": "https://www.thoughtworks.com/careers",
     "ats": "greenhouse",
     "token": "thoughtworks",
-    "open": 2,
+    "open": 1,
     "total": 3,
     "cities": [
       "bengaluru"
