@@ -268,7 +268,7 @@
     "careers": "https://www.harvey.ai/careers",
     "ats": "ashby",
     "token": "harvey",
-    "open": 5,
+    "open": 4,
     "total": 5,
     "cities": [
       "bengaluru"
@@ -1032,8 +1032,8 @@
     "careers": "https://www.highradius.com/careers/",
     "ats": "greenhouse",
     "token": "highradius",
-    "open": 20,
-    "total": 22,
+    "open": 21,
+    "total": 23,
     "cities": [
       "hyderabad"
     ],
