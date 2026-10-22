@@ -347,8 +347,8 @@
     "careers": "https://www.mongodb.com/careers",
     "ats": "greenhouse",
     "token": "mongodb",
-    "open": 42,
-    "total": 42,
+    "open": 43,
+    "total": 43,
     "cities": [
       "bengaluru",
       "mumbai",
@@ -371,8 +371,8 @@
     "careers": "https://www.zscaler.com/careers",
     "ats": "greenhouse",
     "token": "zscaler",
-    "open": 52,
-    "total": 56,
+    "open": 54,
+    "total": 58,
     "cities": [
       "bengaluru",
       "mumbai",
@@ -420,7 +420,7 @@
     "careers": "https://about.gitlab.com/jobs/",
     "ats": "greenhouse",
     "token": "gitlab",
-    "open": 15,
+    "open": 14,
     "total": 20,
     "cities": [
       "bengaluru",
@@ -444,7 +444,7 @@
     "careers": "https://www.rubrik.com/company/careers",
     "ats": "greenhouse",
     "token": "rubrik",
-    "open": 17,
+    "open": 15,
     "total": 19,
     "cities": [
       "bengaluru",
@@ -510,7 +510,7 @@
     "careers": "https://www.netskope.com/company/careers",
     "ats": "greenhouse",
     "token": "netskope",
-    "open": 18,
+    "open": 19,
     "total": 20,
     "cities": [
       "bengaluru",
@@ -557,7 +557,7 @@
     "careers": "https://www.twilio.com/en-us/company/jobs",
     "ats": "greenhouse",
     "token": "twilio",
-    "open": 8,
+    "open": 7,
     "total": 9,
     "cities": [
       "remote-india"
@@ -615,8 +615,8 @@
     "careers": "https://careers.agoda.com/",
     "ats": "greenhouse",
     "token": "agoda",
-    "open": 5,
-    "total": 5,
+    "open": 6,
+    "total": 6,
     "cities": [
       "gurugram"
     ],
@@ -652,7 +652,7 @@
     "careers": "https://www.commvault.com/careers",
     "ats": "greenhouse",
     "token": "commvault",
-    "open": 7,
+    "open": 6,
     "total": 8,
     "cities": [
       "bengaluru",
@@ -735,8 +735,8 @@
     "careers": "https://careers.snowflake.com/",
     "ats": "ashby",
     "token": "snowflake",
-    "open": 3,
-    "total": 6,
+    "open": 4,
+    "total": 7,
     "cities": [
       "bengaluru",
       "pune",
@@ -949,8 +949,8 @@
     "careers": "https://www.meesho.io/jobs",
     "ats": "lever",
     "token": "meesho",
-    "open": 16,
-    "total": 16,
+    "open": 17,
+    "total": 17,
     "cities": [
       "bengaluru",
       "ahmedabad",
@@ -1031,7 +1031,7 @@
     "careers": "https://www.highradius.com/careers/",
     "ats": "greenhouse",
     "token": "highradius",
-    "open": 22,
+    "open": 21,
     "total": 22,
     "cities": [
       "hyderabad"
@@ -1136,7 +1136,7 @@
     "careers": "https://www.druva.com/company/careers/",
     "ats": "greenhouse",
     "token": "druva",
-    "open": 13,
+    "open": 12,
     "total": 13,
     "cities": [
       "mumbai",
@@ -1158,7 +1158,7 @@
     "careers": "https://atlan.com/careers/",
     "ats": "ashby",
     "token": "atlan",
-    "open": 2,
+    "open": 1,
     "total": 2,
     "cities": [
       "remote-india"
@@ -1195,8 +1195,8 @@
     "careers": "https://www.thoughtworks.com/careers",
     "ats": "greenhouse",
     "token": "thoughtworks",
-    "open": 0,
-    "total": 1,
+    "open": 2,
+    "total": 3,
     "cities": [
       "bengaluru"
     ],
