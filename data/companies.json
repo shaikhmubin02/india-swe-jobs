@@ -371,7 +371,7 @@
     "careers": "https://www.zscaler.com/careers",
     "ats": "greenhouse",
     "token": "zscaler",
-    "open": 53,
+    "open": 52,
     "total": 56,
     "cities": [
       "bengaluru",
@@ -510,7 +510,7 @@
     "careers": "https://www.netskope.com/company/careers",
     "ats": "greenhouse",
     "token": "netskope",
-    "open": 19,
+    "open": 18,
     "total": 20,
     "cities": [
       "bengaluru",
@@ -693,8 +693,8 @@
     "careers": "https://newrelic.com/about/careers",
     "ats": "greenhouse",
     "token": "newrelic",
-    "open": 5,
-    "total": 5,
+    "open": 6,
+    "total": 6,
     "cities": [
       "bengaluru",
       "hyderabad",
