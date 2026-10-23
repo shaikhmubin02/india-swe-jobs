@@ -371,8 +371,8 @@
     "careers": "https://www.zscaler.com/careers",
     "ats": "greenhouse",
     "token": "zscaler",
-    "open": 54,
-    "total": 58,
+    "open": 55,
+    "total": 59,
     "cities": [
       "bengaluru",
       "mumbai",
@@ -544,7 +544,6 @@
     "disciplines": [
       "ml",
       "product",
-      "security",
       "software"
     ],
     "walk_ins": 0
@@ -884,10 +883,14 @@
     "careers": "https://www.figma.com/careers/",
     "ats": "greenhouse",
     "token": "figma",
-    "open": 0,
-    "total": 0,
-    "cities": [],
-    "disciplines": [],
+    "open": 1,
+    "total": 1,
+    "cities": [
+      "bengaluru"
+    ],
+    "disciplines": [
+      "software"
+    ],
     "walk_ins": 0
   },
   {
@@ -1076,7 +1079,7 @@
     "careers": "https://www.glance.com/careers",
     "ats": "greenhouse",
     "token": "glance",
-    "open": 13,
+    "open": 12,
     "total": 13,
     "cities": [
       "bengaluru"
