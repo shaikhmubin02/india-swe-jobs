@@ -320,7 +320,7 @@
     "careers": "https://www.databricks.com/company/careers",
     "ats": "greenhouse",
     "token": "databricks",
-    "open": 68,
+    "open": 67,
     "total": 73,
     "cities": [
       "bengaluru",
@@ -371,7 +371,7 @@
     "careers": "https://www.zscaler.com/careers",
     "ats": "greenhouse",
     "token": "zscaler",
-    "open": 55,
+    "open": 53,
     "total": 59,
     "cities": [
       "bengaluru",
@@ -444,7 +444,7 @@
     "careers": "https://www.rubrik.com/company/careers",
     "ats": "greenhouse",
     "token": "rubrik",
-    "open": 15,
+    "open": 16,
     "total": 19,
     "cities": [
       "bengaluru",
@@ -468,8 +468,8 @@
     "careers": "https://www.alpha-sense.com/careers/",
     "ats": "greenhouse",
     "token": "alphasense",
-    "open": 8,
-    "total": 9,
+    "open": 9,
+    "total": 10,
     "cities": [
       "bengaluru",
       "remote-india",
@@ -489,7 +489,7 @@
     "careers": "https://www.payoneer.com/careers/",
     "ats": "greenhouse",
     "token": "payoneer",
-    "open": 19,
+    "open": 18,
     "total": 19,
     "cities": [
       "gurugram"
@@ -651,8 +651,8 @@
     "careers": "https://www.commvault.com/careers",
     "ats": "greenhouse",
     "token": "commvault",
-    "open": 6,
-    "total": 8,
+    "open": 7,
+    "total": 9,
     "cities": [
       "bengaluru",
       "pune"
@@ -814,8 +814,8 @@
     "careers": "https://careers.adyen.com/",
     "ats": "greenhouse",
     "token": "adyen",
-    "open": 1,
-    "total": 3,
+    "open": 2,
+    "total": 4,
     "cities": [
       "bengaluru"
     ],
@@ -929,8 +929,8 @@
     "careers": "https://paytm.com/careers",
     "ats": "lever",
     "token": "paytm",
-    "open": 15,
-    "total": 15,
+    "open": 16,
+    "total": 16,
     "cities": [
       "bengaluru",
       "mumbai",
@@ -953,7 +953,7 @@
     "careers": "https://www.meesho.io/jobs",
     "ats": "lever",
     "token": "meesho",
-    "open": 17,
+    "open": 16,
     "total": 17,
     "cities": [
       "bengaluru",
@@ -1140,7 +1140,7 @@
     "careers": "https://www.druva.com/company/careers/",
     "ats": "greenhouse",
     "token": "druva",
-    "open": 12,
+    "open": 11,
     "total": 13,
     "cities": [
       "mumbai",
@@ -1199,7 +1199,7 @@
     "careers": "https://www.thoughtworks.com/careers",
     "ats": "greenhouse",
     "token": "thoughtworks",
-    "open": 1,
+    "open": 0,
     "total": 3,
     "cities": [
       "bengaluru"

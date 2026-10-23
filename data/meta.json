@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-23T04:58:35.434Z",
+  "generated_at": "2026-10-23T11:45:33.932Z",
   "closed_retention_days": 30,
   "trending_window_days": 7,
   "counts": {
-    "total": 596,
-    "open": 551,
-    "open_engineering": 500,
-    "closed": 45,
+    "total": 600,
+    "open": 549,
+    "open_engineering": 497,
+    "closed": 51,
     "walk_ins": 0,
-    "companies": 54,
+    "companies": 53,
     "sources": 60
   },
   "tracks": {
-    "engineering": 541,
+    "engineering": 545,
     "product": 55
   },
   "cities": [
@@ -20,19 +20,19 @@
       "slug": "bengaluru",
       "name": "Bengaluru",
       "region": "South",
-      "open": 297
+      "open": 298
     },
     {
       "slug": "mumbai",
       "name": "Mumbai",
       "region": "West",
-      "open": 66
+      "open": 64
     },
     {
       "slug": "pune",
       "name": "Pune",
       "region": "West",
-      "open": 30
+      "open": 29
     },
     {
       "slug": "hyderabad",
@@ -44,7 +44,7 @@
       "slug": "gurugram",
       "name": "Gurugram",
       "region": "North",
-      "open": 75
+      "open": 74
     },
     {
       "slug": "noida",
@@ -74,7 +74,7 @@
       "slug": "chandigarh",
       "name": "Chandigarh",
       "region": "North",
-      "open": 12
+      "open": 11
     },
     {
       "slug": "visakhapatnam",
@@ -183,8 +183,8 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 900,
-      "india": 68
+      "rows": 898,
+      "india": 67
     },
     {
       "key": "greenhouse:zscaler",
@@ -192,8 +192,8 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 355,
-      "india": 55
+      "rows": 352,
+      "india": 53
     },
     {
       "key": "greenhouse:mongodb",
@@ -223,31 +223,22 @@
       "india": 21
     },
     {
-      "key": "greenhouse:payoneer",
-      "name": "Payoneer",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 101,
-      "india": 19
-    },
-    {
       "key": "greenhouse:netskope",
       "name": "Netskope",
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 126,
+      "rows": 127,
       "india": 19
     },
     {
-      "key": "lever:meesho",
-      "name": "Meesho",
+      "key": "greenhouse:payoneer",
+      "name": "Payoneer",
       "sector": "tech",
-      "category": "indian-product",
+      "category": "global-tech",
       "error": null,
-      "rows": 59,
-      "india": 17
+      "rows": 100,
+      "india": 18
     },
     {
       "key": "greenhouse:rubrik",
@@ -255,8 +246,17 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 147,
-      "india": 15
+      "rows": 148,
+      "india": 16
+    },
+    {
+      "key": "lever:meesho",
+      "name": "Meesho",
+      "sector": "tech",
+      "category": "indian-product",
+      "error": null,
+      "rows": 58,
+      "india": 16
     },
     {
       "key": "lever:paytm",
@@ -264,8 +264,8 @@
       "sector": "tech",
       "category": "indian-product",
       "error": null,
-      "rows": 196,
-      "india": 15
+      "rows": 197,
+      "india": 16
     },
     {
       "key": "greenhouse:squarepointcapital",
@@ -273,7 +273,7 @@
       "sector": "quant",
       "category": "hft",
       "error": null,
-      "rows": 92,
+      "rows": 91,
       "india": 14
     },
     {
@@ -291,7 +291,7 @@
       "sector": "quant",
       "category": "hft",
       "error": null,
-      "rows": 169,
+      "rows": 168,
       "india": 13
     },
     {
@@ -304,15 +304,6 @@
       "india": 13
     },
     {
-      "key": "lever:mindtickle",
-      "name": "Mindtickle",
-      "sector": "tech",
-      "category": "indian-product",
-      "error": null,
-      "rows": 20,
-      "india": 12
-    },
-    {
       "key": "greenhouse:glance",
       "name": "Glance",
       "sector": "tech",
@@ -322,12 +313,12 @@
       "india": 12
     },
     {
-      "key": "greenhouse:druva",
-      "name": "Druva",
+      "key": "lever:mindtickle",
+      "name": "Mindtickle",
       "sector": "tech",
       "category": "indian-product",
       "error": null,
-      "rows": 32,
+      "rows": 20,
       "india": 12
     },
     {
@@ -336,7 +327,16 @@
       "sector": "tech",
       "category": "indian-product",
       "error": null,
-      "rows": 80,
+      "rows": 82,
+      "india": 11
+    },
+    {
+      "key": "greenhouse:druva",
+      "name": "Druva",
+      "sector": "tech",
+      "category": "indian-product",
+      "error": null,
+      "rows": 31,
       "india": 11
     },
     {
@@ -354,7 +354,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 730,
+      "rows": 727,
       "india": 9
     },
     {
@@ -363,8 +363,8 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 213,
-      "india": 8
+      "rows": 212,
+      "india": 9
     },
     {
       "key": "greenhouse:twilio",
@@ -385,21 +385,30 @@
       "india": 7
     },
     {
-      "key": "greenhouse:elastic",
-      "name": "Elastic",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 392,
-      "india": 7
-    },
-    {
       "key": "greenhouse:singlestore",
       "name": "SingleStore",
       "sector": "tech",
       "category": "global-tech",
       "error": null,
       "rows": 39,
+      "india": 7
+    },
+    {
+      "key": "greenhouse:elastic",
+      "name": "Elastic",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 395,
+      "india": 7
+    },
+    {
+      "key": "greenhouse:commvault",
+      "name": "Commvault",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 55,
       "india": 7
     },
     {
@@ -410,15 +419,6 @@
       "error": null,
       "rows": 27,
       "india": 7
-    },
-    {
-      "key": "greenhouse:commvault",
-      "name": "Commvault",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 53,
-      "india": 6
     },
     {
       "key": "greenhouse:newrelic",
@@ -435,7 +435,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 315,
+      "rows": 316,
       "india": 6
     },
     {
@@ -462,7 +462,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 14,
+      "rows": 12,
       "india": 5
     },
     {
@@ -489,7 +489,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 347,
+      "rows": 349,
       "india": 4
     },
     {
@@ -507,16 +507,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 30,
-      "india": 4
-    },
-    {
-      "key": "ashby:snowflake",
-      "name": "Snowflake",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 351,
+      "rows": 31,
       "india": 4
     },
     {
@@ -529,12 +520,21 @@
       "india": 4
     },
     {
+      "key": "ashby:snowflake",
+      "name": "Snowflake",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 353,
+      "india": 4
+    },
+    {
       "key": "greenhouse:airbnb",
       "name": "Airbnb",
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 192,
+      "rows": 193,
       "india": 4
     },
     {
@@ -552,7 +552,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 802,
+      "rows": 801,
       "india": 3
     },
     {
@@ -571,6 +571,15 @@
       "category": "global-tech",
       "error": null,
       "rows": 139,
+      "india": 2
+    },
+    {
+      "key": "greenhouse:adyen",
+      "name": "Adyen",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 247,
       "india": 2
     },
     {
@@ -597,7 +606,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 439,
+      "rows": 440,
       "india": 1
     },
     {
@@ -607,15 +616,6 @@
       "category": "global-tech",
       "error": null,
       "rows": 15,
-      "india": 1
-    },
-    {
-      "key": "greenhouse:adyen",
-      "name": "Adyen",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 242,
       "india": 1
     },
     {
@@ -637,15 +637,6 @@
       "india": 1
     },
     {
-      "key": "ashby:sardine",
-      "name": "Sardine",
-      "sector": "tech",
-      "category": "indian-product",
-      "error": null,
-      "rows": 46,
-      "india": 1
-    },
-    {
       "key": "ashby:atlan",
       "name": "Atlan",
       "sector": "tech",
@@ -655,12 +646,12 @@
       "india": 1
     },
     {
-      "key": "greenhouse:thoughtworks",
-      "name": "Thoughtworks",
+      "key": "ashby:sardine",
+      "name": "Sardine",
       "sector": "tech",
-      "category": "services",
+      "category": "indian-product",
       "error": null,
-      "rows": 43,
+      "rows": 46,
       "india": 1
     },
     {
@@ -715,6 +706,15 @@
       "category": "global-tech",
       "error": null,
       "rows": 80,
+      "india": 0
+    },
+    {
+      "key": "greenhouse:thoughtworks",
+      "name": "Thoughtworks",
+      "sector": "tech",
+      "category": "services",
+      "error": null,
+      "rows": 39,
       "india": 0
     },
     {
