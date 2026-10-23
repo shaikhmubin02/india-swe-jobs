@@ -287,10 +287,11 @@
     "careers": "https://www.together.ai/careers",
     "ats": "greenhouse",
     "token": "togetherai",
-    "open": 5,
-    "total": 5,
+    "open": 6,
+    "total": 6,
     "cities": [
-      "bengaluru"
+      "bengaluru",
+      "india-anywhere"
     ],
     "disciplines": [
       "infra",
@@ -632,9 +633,10 @@
     "careers": "https://www.singlestore.com/careers/",
     "ats": "greenhouse",
     "token": "singlestore",
-    "open": 7,
-    "total": 7,
+    "open": 8,
+    "total": 8,
     "cities": [
+      "hyderabad",
       "india-anywhere"
     ],
     "disciplines": [
@@ -1162,12 +1164,13 @@
     "careers": "https://atlan.com/careers/",
     "ats": "ashby",
     "token": "atlan",
-    "open": 1,
-    "total": 2,
+    "open": 2,
+    "total": 3,
     "cities": [
       "remote-india"
     ],
     "disciplines": [
+      "infra",
       "security",
       "software"
     ],
