@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:28:22.317Z",
+  "generated_at": "2026-10-24T04:43:28.755Z",
   "closed_retention_days": 30,
   "trending_window_days": 7,
   "counts": {
@@ -246,16 +246,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 149,
-      "india": 16
-    },
-    {
-      "key": "lever:meesho",
-      "name": "Meesho",
-      "sector": "tech",
-      "category": "indian-product",
-      "error": null,
-      "rows": 58,
+      "rows": 150,
       "india": 16
     },
     {
@@ -265,6 +256,15 @@
       "category": "indian-product",
       "error": null,
       "rows": 197,
+      "india": 16
+    },
+    {
+      "key": "lever:meesho",
+      "name": "Meesho",
+      "sector": "tech",
+      "category": "indian-product",
+      "error": null,
+      "rows": 58,
       "india": 16
     },
     {
@@ -282,7 +282,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 237,
+      "rows": 239,
       "india": 14
     },
     {
@@ -304,21 +304,21 @@
       "india": 13
     },
     {
-      "key": "lever:mindtickle",
-      "name": "Mindtickle",
-      "sector": "tech",
-      "category": "indian-product",
-      "error": null,
-      "rows": 21,
-      "india": 12
-    },
-    {
       "key": "greenhouse:glance",
       "name": "Glance",
       "sector": "tech",
       "category": "indian-product",
       "error": null,
       "rows": 38,
+      "india": 12
+    },
+    {
+      "key": "lever:mindtickle",
+      "name": "Mindtickle",
+      "sector": "tech",
+      "category": "indian-product",
+      "error": null,
+      "rows": 21,
       "india": 12
     },
     {
@@ -349,21 +349,21 @@
       "india": 10
     },
     {
+      "key": "greenhouse:stripe",
+      "name": "Stripe",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 720,
+      "india": 9
+    },
+    {
       "key": "greenhouse:alphasense",
       "name": "AlphaSense",
       "sector": "tech",
       "category": "global-tech",
       "error": null,
       "rows": 212,
-      "india": 9
-    },
-    {
-      "key": "greenhouse:stripe",
-      "name": "Stripe",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 724,
       "india": 9
     },
     {
@@ -385,21 +385,21 @@
       "india": 7
     },
     {
-      "key": "greenhouse:coinbase",
-      "name": "Coinbase",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 227,
-      "india": 7
-    },
-    {
       "key": "greenhouse:elastic",
       "name": "Elastic",
       "sector": "tech",
       "category": "global-tech",
       "error": null,
       "rows": 402,
+      "india": 7
+    },
+    {
+      "key": "greenhouse:coinbase",
+      "name": "Coinbase",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 227,
       "india": 7
     },
     {
@@ -426,16 +426,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 84,
-      "india": 6
-    },
-    {
-      "key": "greenhouse:agoda",
-      "name": "Agoda",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 315,
+      "rows": 85,
       "india": 6
     },
     {
@@ -444,7 +435,16 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 56,
+      "rows": 55,
+      "india": 6
+    },
+    {
+      "key": "greenhouse:agoda",
+      "name": "Agoda",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 316,
       "india": 6
     },
     {
@@ -489,7 +489,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 351,
+      "rows": 358,
       "india": 4
     },
     {
@@ -507,7 +507,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 30,
+      "rows": 31,
       "india": 4
     },
     {
@@ -525,7 +525,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 194,
+      "rows": 191,
       "india": 4
     },
     {
@@ -552,7 +552,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 801,
+      "rows": 796,
       "india": 3
     },
     {
@@ -561,16 +561,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 678,
-      "india": 2
-    },
-    {
-      "key": "greenhouse:adyen",
-      "name": "Adyen",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 249,
+      "rows": 679,
       "india": 2
     },
     {
@@ -580,6 +571,15 @@
       "category": "global-tech",
       "error": null,
       "rows": 140,
+      "india": 2
+    },
+    {
+      "key": "greenhouse:adyen",
+      "name": "Adyen",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 249,
       "india": 2
     },
     {
@@ -615,7 +615,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 434,
+      "rows": 433,
       "india": 1
     },
     {
@@ -633,7 +633,7 @@
       "sector": "tech",
       "category": "global-tech",
       "error": null,
-      "rows": 140,
+      "rows": 138,
       "india": 1
     },
     {
@@ -651,7 +651,7 @@
       "sector": "tech",
       "category": "indian-product",
       "error": null,
-      "rows": 48,
+      "rows": 49,
       "india": 1
     },
     {
@@ -660,7 +660,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 162,
+      "rows": 161,
       "india": 0
     },
     {
@@ -669,7 +669,7 @@
       "sector": "tech",
       "category": "ai-lab",
       "error": null,
-      "rows": 172,
+      "rows": 171,
       "india": 0
     },
     {
@@ -700,6 +700,15 @@
       "india": 0
     },
     {
+      "key": "lever:spotify",
+      "name": "Spotify",
+      "sector": "tech",
+      "category": "global-tech",
+      "error": null,
+      "rows": 90,
+      "india": 0
+    },
+    {
       "key": "manual:curated",
       "name": "Curated & walk-in drives",
       "sector": "tech",
@@ -714,16 +723,7 @@
       "sector": "tech",
       "category": "services",
       "error": null,
-      "rows": 38,
-      "india": 0
-    },
-    {
-      "key": "lever:spotify",
-      "name": "Spotify",
-      "sector": "tech",
-      "category": "global-tech",
-      "error": null,
-      "rows": 89,
+      "rows": 39,
       "india": 0
     }
   ]
